@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+validation_report.xlsx
+validation_summary.json
+test_report.html
